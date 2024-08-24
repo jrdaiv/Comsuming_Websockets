@@ -1,7 +1,5 @@
 *********************
 
-Username: pick a name
-
 Password: password123
 
 *********************
